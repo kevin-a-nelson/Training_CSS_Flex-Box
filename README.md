@@ -21,7 +21,7 @@
 
 ### Flex Gallery
 
-- Create a gallery of square images using CSS flex box
+- Create a gallery of mixed-aspect-ratio images using CSS flex box
 - Each image slot should have the same max width and max height, but should match the source image aspect ratio
 - Images should "fit" the space (ie.  no zooming or cropping, extra whitespace is allowed)
 - Images should be centered horizontally and vertically inside their slots
