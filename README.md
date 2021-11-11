@@ -17,6 +17,7 @@
 - Grid should have no gutters on the outside edges (very top, bottom, left and right of the whole grid)
 - Grid should start in the top left and move to the bottom right as more images are presented
 - Grid should accept an arbitrary number of images
+  - Don't worry about automating this. Just emulated it by commenting out images or resizing the browser window.
   - If there aren't enough images to fill the page, images should start at the left and move right without extra gutter between them (ie. put any extra whitespace to the right and/or below the images)
 
 ### Flex Gallery
@@ -29,6 +30,7 @@
 - Grid should have no gutters on the outside edges (very top, bottom, left and right of the whole grid)
 - Grid should start in the top left and move to the bottom right as more images are presented
 - Grid should accept an arbitrary number of images
+  - Don't worry about automating this. Just emulated it by commenting out images or resizing the browser window.
   - If there aren't enough images to fill the page, images should start at the left and ove right without extra gutter between them (ie. put any extra whitespace to the right and/or below the images)
 
 ## Resources
