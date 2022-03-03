@@ -38,6 +38,7 @@
 - [Unsplash](https://source.unsplash.com/): Random image URLs
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Negative Margins](https://css-tricks.com/negative-margins/)
+- [Flexbox Froggy](https://flexboxfroggy.com/): Gamified tutorial on flexbox
 
 ## Notes
 - HTML `<img>` tags can be a bit squirly to size and layout. It's usually best to wrap each image in a container `<div>` and apply the sizing and layout to that div.
